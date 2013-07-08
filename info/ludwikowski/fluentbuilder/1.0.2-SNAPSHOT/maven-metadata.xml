@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>info.ludwikowski</groupId>
+  <artifactId>fluentbuilder</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130708.111833</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130708111833</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.2-20130708.111833-1</value>
+        <updated>20130708111833</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2-20130708.111833-1</value>
+        <updated>20130708111833</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
